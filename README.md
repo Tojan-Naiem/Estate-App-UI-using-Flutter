@@ -1,4 +1,5 @@
-**ScreenShot for the App UI:**
+<h1 align="center"**ScreenShot for the App UI:**</h1>
+
 
 
 
